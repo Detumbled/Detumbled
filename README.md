@@ -1,6 +1,6 @@
 # 🛰️ Hi, I'm Alessandro
 
-### **Spacecraft Operations Engineer
+### Spacecraft Operations Engineer
 
 Space & Astronautics MSc graduate and Mission Operations Engineer with a background in ESA’s Moonlight initiative. I specialize in Orbit Determination and high-fidelity dynamics. Currently expanding my technical stack into Rust for safety-critical flight software and Java/Orekit for mission analysis, while mastering Advanced Spacecraft Dynamics via the Schaub framework.
 
